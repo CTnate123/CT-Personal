@@ -1,0 +1,177 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CT Personal</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    padding: 60px 20px;
+    border-bottom: 2px solid #fff;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+
+.tagline {
+    font-size: 18px;
+    color: #ccc;
+}
+
+.section {
+    max-width: 1000px;
+    margin: auto;
+    padding: 50px 20px;
+}
+
+h2 {
+    font-size: 28px;
+    border-bottom: 2px solid #fff;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.pattern {
+    margin-bottom: 30px;
+}
+
+.label {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+img {
+    width: 100%;
+    margin-top: 15px;
+    border: 2px solid #fff;
+}
+
+.button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 25px;
+    background: #fff;
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.button:hover {
+    background: #ccc;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    border-top: 2px solid #fff;
+    color: #888;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>CT PERSONAL</h1>
+    <p class="tagline">Custom Bleached Apparel. Unique Every Time.</p>
+</header>
+
+<div class="section">
+    <h2>ABOUT CT PERSONAL</h2>
+    <p>
+        CT Personal is built on individuality. Every piece we create is hand-bleached,
+        meaning no two designs are ever the same. We focus on bold patterns,
+        clean finishes, and long-lasting comfort.
+    </p>
+</div>
+
+<div class="section">
+    <h2>BLEACHED PATTERNS</h2>
+
+    <div class="pattern">
+        <p class="label">🔥 SPLATTER PATTERN</p>
+        <p>
+            A chaotic, high-energy design created by controlled bleach splashes.
+            This pattern gives every piece a raw, streetwear feel.
+        </p>
+        <img src="ct-splatter.jpg" alt="CT Personal Splatter Pattern">
+    </div>
+
+    <div class="pattern">
+        <p class="label">🌊 WAVE FADE PATTERN</p>
+        <p>
+            Smooth gradients and flowing bleach transitions create a softer,
+            more artistic look.
+        </p>
+        <img src="ct-wave.jpg" alt="CT Personal Wave Pattern">
+    </div>
+
+    <div class="pattern">
+        <p class="label">⚡ LIGHTNING PATTERN</p>
+        <p>
+            Sharp, striking bleach lines inspired by lightning bolts.
+            Bold and eye-catching.
+        </p>
+        <img src="ct-lightning.jpg" alt="CT Personal Lightning Pattern">
+    </div>
+
+</div>
+
+<div class="section">
+    <h2>HOW OUR PRODUCTS ARE MADE</h2>
+    <p>
+        Each CT Personal piece goes through a detailed process:
+    </p>
+    <ul>
+        <li><b>Step 1:</b> High-quality fabric selection</li>
+        <li><b>Step 2:</b> Hand-applied bleach design</li>
+        <li><b>Step 3:</b> Neutralization process to stop chemical reaction</li>
+        <li><b>Step 4:</b> Deep wash and fabric conditioning</li>
+        <li><b>Step 5:</b> Final inspection for quality</li>
+    </ul>
+
+    <img src="ct-process.jpg" alt="CT Personal Production Process">
+</div>
+
+<div class="section">
+    <h2>SAFETY & QUALITY</h2>
+    <p>
+        At CT Personal, safety is a priority. Our bleaching process is fully controlled
+        and neutralized, ensuring no harmful residue remains on the fabric.
+    </p>
+    <ul>
+        <li><b>✔ SAFE FOR SKIN</b> – No leftover chemicals</li>
+        <li><b>✔ PRE-WASHED</b> – Ready to wear immediately</li>
+        <li><b>✔ DURABLE</b> – Designs won’t fade easily</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>WHY CHOOSE CT PERSONAL?</h2>
+    <p>
+        We don’t mass-produce. Every item is handcrafted, making your clothing
+        truly one of one. You’re not just buying clothes — you’re wearing art.
+    </p>
+
+    <a href="#" class="button">SHOP NOW</a>
+</div>
+
+<footer>
+    <p>CT PERSONAL ©</p>
+    <p>Handmade | Unique | Premium Quality</p>
+</footer>
+
+</body>
+</html>
